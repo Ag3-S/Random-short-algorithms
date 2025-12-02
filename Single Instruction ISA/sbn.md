@@ -1,4 +1,4 @@
-sbn ( subtract and branch if negative ) is a Turing complete statement, which means you can simulate ANY program ever written by using this single statement.
+sbn ( subtract and branch if negative ) is a Turing complete statement, which means you can simulate ANY program ever written by using this single instruction in your instruction set.
 SBN does the following : 
 sbn(a, b, c) means : 
 
